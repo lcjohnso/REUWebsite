@@ -14,6 +14,7 @@ Advisors: Adam Miller and Steve Schulze
 ### Abstract
 
 
+Download: [PDF]({{ base_path }}/files/POSTER.pdf)
 
 ## Spectroscopic Diagnostics of Magnetic Activity in Sub-Subgiants
 Summer 2024 - Present <br>
