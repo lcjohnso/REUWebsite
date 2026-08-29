@@ -7,22 +7,23 @@ author_profile: true
 {% include toc %}
 {% include base_path %}
 
-## Introduction
+## Finding the Redshift Completeness Factor of the Local Universe
+Summer 2025  <br>
+Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA), Northwestern University <br>
+Advisors: Adam Miller and Steve Schulze
+### Abstract
 
-My REU summer research project (University of Hawaii, 2006) was to identify planetary nebulae in the nearby starburst galaxy M82, measure [OIII] emission line fluxes, and measure radial velicities from slitless spectroscopy observations from the FOCAS instrument on the Subaru Telescope.
 
-## Results
+Download: [PDF]({{ base_path }}/files/POSTER.pdf)
 
-Using an on-band/off-band filter technique, we identify 109 planetary nebulae (PNe) candidates. The use of ancillary high-resolution Hubble Space Telescope Hα imaging aided in confirming these candidates, helping to discriminate PNe from contaminants such as supernova remnants and compact HII regions. Radial velocities were measured for 94 of these PNe. The galaxy rotation derived from PNe velocities agrees with those derived by CO(2-1) and H I measurements that show a falling, near-Keplerian rotation curve. In addition, [OIII] emission-line photometry allows us to construct the planetary nebula luminosity function (PNLF) for the galaxy. Our distance determination for M 82, deduced from the observed PNLF, yields a larger distance than those derived using the tip of the red giant branch technique, using Cepheid variable stars in nearby group member M 81, or using the PNLF of M 81. We show that this inconsistency most likely stems from our inability to completely correct for internal extinction imparted by this dusty, starburst galaxy.
+## Spectroscopic Diagnostics of Magnetic Activity in Sub-Subgiants
+Summer 2024 - Present <br>
+Illinois Institute of Technology <br>
+Advisor: Emily Leiner
+### Abstract 
+Since their discovery, sub-subgiant stars (SSGs) have been a puzzling phenomenon because they appear to be redder and under-luminous compared to normal subgiant and giant stars on a color magnitude diagram (CMD). One hypothesis is that SSGs are rapidly rotating stars in tight binary orbits. Rapid rotation generates strong magnetic fields, and these magnetic fields may inhibit convection, causing stars to be cooler and larger than predicted by standard stellar models. We present a sample of stellar spectra taken with the Robert G. Tull Coudé spectrograph on the 2.7 m Harlan J. Smith telescope at McDonald Observatory for a sample of 74 SSGs. We analyze the H-alpha line region of the spectra. The SSGs are categorized into three distinct categories: H-alpha emission lines only, H-alpha absorption lines only, and variable H-alpha. We find that H-alpha variability is the most common H-alpha profile type amongst SSGs, followed by absorption lines only, and standard emission as the least common H-alpha profile. We also analyze the Calcium II H and K line region, finding widespread Ca II H & K emission but with less variability than observed in H-alpha. We conclude that SSGs show some signs of chromospheric activity, which is indicative of strong magnetic activity, but that an additional component may be needed to explain the complex line profile shapes of the H-alpha features.
 
-## Presentations & Publication
 
-I presented initial results as a poster at the 209th Meeting of the American Astronomical Society: [Poster 156.02](https://ui.adsabs.harvard.edu/abs/2006AAS...20915602J/abstract).
 
-I completed additional analysis as part of an undergraduate honors thesis and presented the following poster at the 2007 Colby College Undergraduate Research Symposium:
+Here is the poster that was presented at the 245th Meeting of the American Astronomical Society: [Poster](https://aas245-aas.ipostersessions.com/?s=55-F0-8A-B5-A5-F0-22-F7-1F-52-56-72-43-15-50-7C).
 
-![2007 M82 PNe Research Poster]({{ base_path }}/images/m82pne_poster.png)
-
-Download: [PDF]({{ base_path }}/files/m82pne_poster.pdf)
-
-I published these results in [Johnson et al. 2009, ApJ, 697, 1138](https://dx.doi.org/10.1088/0004-637X/697/2/1138).
